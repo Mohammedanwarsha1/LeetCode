@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1127-last-stone-weight) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Geometry
 |  |
 | ------- |
