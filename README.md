@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 ## Array
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0001-two-sum) |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1319-unique-number-of-occurrences) |
