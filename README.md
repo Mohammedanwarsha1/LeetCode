@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1127-last-stone-weight) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
