@@ -25,14 +25,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0049-group-anagrams) |
+| [0198-house-robber](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1127-last-stone-weight) |
+| [1319-unique-number-of-occurrences](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,14 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -63,7 +80,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0242-valid-anagram](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1319-unique-number-of-occurrences](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2215-finding-3-digit-even-numbers](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -72,9 +100,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -88,8 +121,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Geometry
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
+## Enumeration
+|  |
+| ------- |
+| [2215-finding-3-digit-even-numbers](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0198-house-robber) |
+| [0747-min-cost-climbing-stairs](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
