@@ -36,6 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary-Search-Tree
+|  |
+| ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mohammedanwarsha1/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
