@@ -12,7 +12,7 @@ public:
         }
         for(int i=0;i<n;i++){
             if(i<noz) nums[i]=0;
-            else if(i>=noz && i<(noz+noo)) nums[i]=1;
+            else if(i<(noz+noo)) nums[i]=1;
             else nums[i]=2; 
         }
     }
