@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-
+ 
 void sort01(vector<int> &v){
     int n=v.size();
     int noz=0;
